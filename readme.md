@@ -10,3 +10,4 @@
 - 문서 수정 - docs: README 수정
 - 리팩토링 - refactor: 함수 분리
   https://nohack.tistory.com/17
+  version up
